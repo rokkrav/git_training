@@ -1,4 +1,5 @@
 Hi..
 This is Bob right here
 New line addded to check 
-checking the divergent branching
+checking the divergent branching 
+checking conflicts with master branch 
