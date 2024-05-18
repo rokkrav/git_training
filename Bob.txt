@@ -1,5 +1,6 @@
 Hi..
 This is Bob right here
 New line addded to check 
-checking the divergent branching 
-checking conflicts with master branch 
+
+checking the divergent branching
+checking with bobby_change branch, changed using merge conflicts
