@@ -1,3 +1,4 @@
 Hi..
 This is Bob right here
-New line addded to check
+New line addded to check 
+checking the divergent branching
