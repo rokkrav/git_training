@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Yes added second line to check branching
 checking for 2nd merge
 checking for the fast forward merge 
+checking divergent branching 
