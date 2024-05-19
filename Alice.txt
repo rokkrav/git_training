@@ -7,8 +7,9 @@ checking for Patrick
 changed the file while using github website
 changed to check pull exec
 changed to check pull exec from working directory
-<<<<<<< Updated upstream
+
 checking for pull conflicts edited using website editor
-=======
+
 checking for pulling conflicts changed using wd
->>>>>>> Stashed changes
+
+changed for second time to check pull conflicts using website editor
