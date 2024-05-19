@@ -7,3 +7,4 @@ checking for Patrick
 changed the file while using github website
 changed to check pull exec
 changed to check pull exec from working directory
+checking for pull conflicts edited using website editor
