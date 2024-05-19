@@ -5,3 +5,4 @@ checking for the fast forward merge
 checking divergent branching 
 checking for Patrick
 changed the file while using github website
+changed to check pull exec
